@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#7c1c1e"
+            "#9b2325"
         ],
         "HEADER_SECONDARY": [
-            "#1c1c1e"
+            "#9b2325"
         ],
         "TEXT_NORMAL": [
             "#afafaf"
@@ -51,7 +51,7 @@
             "#10050f"
         ],
         "BACKGROUND_ACCENT": [
-            "#16070a"
+            "#9b2325"
         ],
         "BACKGROUND_FLOATING": [
             "#10050f"
