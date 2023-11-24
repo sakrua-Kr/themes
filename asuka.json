@@ -1,0 +1,138 @@
+{
+    "name": "アスカ・ラングレー",
+    "description": "ただの自己満",
+    "authors": [
+        {
+            "name": "A1pha_Kr",
+            "id": "365431321662110016"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#9b2325"
+        ],
+        "HEADER_SECONDARY": [
+            "#9b2325"
+        ],
+        "TEXT_NORMAL": [
+            "#afafaf"
+        ],
+        "TEXT_MUTED": [
+            "#6d6d6d"
+        ],
+        "TEXT_DANGER": [
+            "#30227c"
+        ],
+        "TEXT_LINK": [
+            "#30227c"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#8a8a8a"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c9c9c9"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#616161"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#10050f"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#10050f"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#16070a"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#10050f"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#9b2325"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#10050f"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#10050f"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#10050f"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#10050f"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#10050f"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#262626"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#262626"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#10050f"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#10050f"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#10050f"
+        ],
+        "KEYBOARD": [
+            "#10050f"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#8a8a8a"
+        ],
+        "CHANNEL_ICON": [
+            "#444444"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#444444"
+        ],
+        "CHAT_BACKGROUND": [
+            "#10050f"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#1f1f1f",
+        "PRIMARY_100": "#c9c9c9",
+        "PRIMARY_200": "#444444",
+        "PRIMARY_300": "#ad2121",
+        "PRIMARY_360": "#444444",
+        "PRIMARY_400": "#ad2121",
+        "PRIMARY_500": "#ad2121",
+        "PRIMARY_600": "#10050f",
+        "PRIMARY_630": "#10050f",
+        "PRIMARY_660": "#10050f",
+        "PRIMARY_700": "#10050f",
+        "PRIMARY_800": "#10050f",
+        "PRIMARY_900": "#10050f",
+        "YELLOW_300": "#ad2121",
+        "BRAND_260": "#ad2121",
+        "BRAND_360": "#ad2121",
+        "BRAND_500": "#ad2121",
+        "BRAND_560": "#db6b6b",
+        "GREEN_360": "#ad2121",
+        "RED_400": "#ad2121",
+        "ORANGE_345": "#ad2121",
+        "RED_560": "#ad2121",
+        "GREEN_345": "#ad2121",
+        "BLUE_345": "#ad2121",
+        "WHITE_500": "#c9c9c9"
+       
+    },
+  "background": {
+    "url": "https://raw.githubusercontent.com/aleph-42/Vendetta-themes/main/asuka/20231123_102358_646.jpg",
+    "alpha": 0.5
+  },
+    "spec": 2
+}
