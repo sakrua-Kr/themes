@@ -131,8 +131,14 @@
        
     },
   "background": {
-    "url": "https://raw.githubusercontent.com/sakrua-Kr/themes/main/20231123_102358_646%20(1).jpg",
+    "url": "https://raw.githubusercontent.com/sakrua-Kr/themes/main/asuka.jpg",
     "alpha": 0.5
   },
+    "plus":{
+        "version": "0",
+        "unreadBadgeColor", "ab2121",
+        "mentionLineColor": "ab2121",
+        "iconpack": "md3"
+    },
     "spec": 2
 }
