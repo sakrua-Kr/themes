@@ -7,6 +7,7 @@
             "id": "973558375575081030"
         }
     ],
+    "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#9b2325"
@@ -158,6 +159,5 @@
         "unreadBadgeColor":"ab2121",
         "mentionLineColor": "ab2121",
         "iconpack": "md3"
-    },
-    "spec": 2
+    }
 }
