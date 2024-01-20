@@ -15,7 +15,7 @@
       "#9b2325"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#540101"
+      "#000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#10050f"
@@ -24,10 +24,10 @@
       "#10050f"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#910000"
+      "#210000"
     ],
     "BACKGROUND_MODIFIER_ACCENT_2": [
-      "#910000"
+      "#210000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#10050f"
@@ -48,7 +48,7 @@
       "#0f0000"
     ],
     "BACKGROUND_TERTIARY": [
-      "##0f0000"
+      "#0f0000"
     ],
     "BG_BASE_PRIMARY": [
       "#0f0000"
