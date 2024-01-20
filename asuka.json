@@ -42,19 +42,19 @@
       "#10050f"
     ],
     "BACKGROUND_SECONDARY": [
-      "#10050f"
+      "#1c0000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#1c0000"
+      "#0f0000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1c0000"
+      "##0f0000"
     ],
     "BG_BASE_PRIMARY": [
-      "#1c0000"
+      "#0f0000"
     ],
     "BG_BASE_SECONDARY": [
-      "#ff6200"
+      "#0f0000"
     ],
     "BORDER_FAINT": [
       "#000000"
