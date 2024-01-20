@@ -1,146 +1,269 @@
 {
-    "name": "アスカ・ラングレー",
-    "description": "ただの自己満で作ったテーマ",
-    "authors": [
-        {
-            "name": "a1pha_kr",
-            "id": "973558375575081030"
-        }
-    ],
-    "spec": 2,
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#9b2325"
-        ],
-        "HEADER_SECONDARY": [
-            "#9b2325"
-        ],
-        "TEXT_NORMAL": [
-            "#afafaf"
-        ],
-        "TEXT_MUTED": [
-            "#6d6d6d"
-        ],
-        "TEXT_DANGER": [
-            "#30227c"
-        ],
-        "TEXT_LINK": [
-            "#30227c"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#8a8a8a"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#DCDDDE"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#c9c9c9"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#616161"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#10050f"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#10050f"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#16070a"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#10050f"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#9b2325"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#10050f"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#10050f"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#10050f"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#10050f"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#10050f"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#262626"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#262626"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#10050f"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#10050f"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#10050f"
-        ],
-        "KEYBOARD": [
-            "#10050f"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#8a8a8a"
-        ],
-        "CHANNEL_ICON": [
-            "#444444"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#444444"
-        ],
-        "CHAT_BACKGROUND": [
-            "#10050f"
-        ]
-    },
-    "rawColors": {
-        "PRIMARY": "#1f1f1f",
-        "PRIMARY_100": "#c9c9c9",
-        "PRIMARY_200": "#444444",
-        "PRIMARY_300": "#ad2121",
-        "PRIMARY_360": "#444444",
-        "PRIMARY_400": "#ad2121",
-        "PRIMARY_500": "#ad2121",
-        "PRIMARY_600": "#10050f",
-        "PRIMARY_630": "#10050f",
-        "PRIMARY_660": "#10050f",
-        "PRIMARY_700": "#10050f",
-        "PRIMARY_800": "#10050f",
-        "PRIMARY_900": "#10050f",
-        "YELLOW_300": "#ad2121",
-        "BRAND_260": "#ad2121",
-        "BRAND_360": "#ad2121",
-        "BRAND_500": "#ad2121",
-        "BRAND_560": "#db6b6b",
-        "GREEN_360": "#ad2121",
-        "RED_400": "#ad2121",
-        "ORANGE_345": "#ad2121",
-        "RED_560": "#ad2121",
-        "GREEN_345": "#ad2121",
-        "BLUE_345": "#ad2121",
-        "WHITE_500": "#c9c9c9"
-    },
-    "background": {
-        "url": "https:\/\/raw.githubusercontent.com\/sakrua-Kr\/themes\/main\/asuka.jpg",
-        "alpha": 0.5
-    },
-    "fonts":{
-        "*":"https:\/\/raw.githubusercontent.com\/sakrua-Kr\/themes\/main\/HuiFont29.ttf"
-    },
-    "plus":{
-        "version": "0",
-        "unreadBadgeColor":"ab2121",
-        "mentionLineColor": "ab2121",
-        "iconpack": "rosiecord-plumpy"
+  "name": "アスカ・ラングレー",
+  "description": "ただの自己満のために作ったテーマ",
+  "authors": [
+    {
+      "name": "a1pha_kr",
+      "id": "973558375575081030"
     }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#000000ff"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#9b2325"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#000000"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#10050f"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#10050f"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT_2": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#10050f"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#10050f"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#10050f"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#000000"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#000000"
+    ],
+    "BORDER_FAINT": [
+      "#000000"
+    ],
+    "BORDER_STRONG": [
+      "#000000"
+    ],
+    "BORDER_SUBTLE": [
+      "#000000"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#000000"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#444444"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#444444"
+    ],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#908caa"
+    ],
+    "HEADER_PRIMARY": [
+      "#9b2325"
+    ],
+    "HEADER_SECONDARY": [
+      "#9b2325"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#c9c9c9"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#DCDDDE"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#616161"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#8a8a8a"
+    ],
+    "MENTION_FOREGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#000000"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#000000"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#000000"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#000000"
+    ],
+    "TEXT_DANGER": [
+      "#30227c"
+    ],
+    "TEXT_LINK": [
+      "#30227c"
+    ],
+    "TEXT_MUTED": [
+      "#6d6d6d"
+    ],
+    "TEXT_NORMAL": [
+      "#afafaf"
+    ],
+    "TEXT_PRIMARY": [
+      "#000000"
+    ],
+    "TEXT_SECONDARY": [
+      "#000000"
+    ]
+  },
+  "rawColors": {
+    "BLUE_345": "#ad2121",
+    "BRAND_260": "#ad2121",
+    "BRAND_360": "#ad2121",
+    "BRAND_500": "#ad2121",
+    "BRAND_560": "#db6b6b",
+    "PLUM_1": "#e0def4",
+    "PLUM_3": "#e0def4",
+    "PLUM_4": "#31748f50",
+    "PLUM_6": "#f1f3f5",
+    "PLUM_9": "#e0def4",
+    "PLUM_10": "#c1bfd1",
+    "PLUM_11": "#191724",
+    "PLUM_13": "#191724",
+    "PLUM_15": "#26233a",
+    "PLUM_16": "#a79ab3",
+    "PLUM_17": "#31213e",
+    "PLUM_18": "#26233a",
+    "PLUM_19": "#908caa",
+    "PLUM_20": "#4b385a",
+    "PLUM_21": "#191724",
+    "PLUM_22": "#26233a",
+    "PLUM_24": "#26233a",
+    "PLUM_25": "#9ccfd8",
+    "PRIMARY_100": "#c9c9c9",
+    "PRIMARY_200": "#444444",
+    "PRIMARY_300": "#ad2121",
+    "PRIMARY_360": "#444444",
+    "PRIMARY_400": "#ad2121",
+    "PRIMARY_500": "#ad2121",
+    "PRIMARY_600": "#10050f",
+    "PRIMARY_630": "#10050f",
+    "PRIMARY_660": "#10050f",
+    "PRIMARY_700": "#10050f",
+    "PRIMARY_800": "#10050f",
+    "GREEN_100": "#ad2121",
+    "GREEN_130": "#ad2121",
+    "GREEN_160": "#ad2121",
+    "GREEN_200": "#ad2121",
+    "GREEN_230": "#ad2121",
+    "GREEN_260": "#ad2121",
+    "GREEN_300": "#ad2121",
+    "GREEN_330": "#ad2121",
+    "GREEN_345": "#ad2121",
+    "GREEN_360": "#ad2121",
+    "GREEN_400": "#ad2121",
+    "GREEN_430": "#ad2121",
+    "GREEN_460": "#ad2121",
+    "GREEN_500": "#ad2121",
+    "GREEN_530": "#ad2121",
+    "GREEN_560": "#ad2121",
+    "GREEN_600": "#ad2121",
+    "GREEN_630": "#ad2121",
+    "GREEN_660": "#ad2121",
+    "GREEN_700": "#ad2121",
+    "GREEN_730": "#ad2121",
+    "GREEN_760": "#ad2121",
+    "GREEN_800": "#ad2121",
+    "GREEN_830": "#ad2121",
+    "GREEN_860": "#ad2121",
+    "GREEN_900": "#ad2121",
+    "GUILD_BOOSTING_PINK": "#eb6f92",
+    "GUILD_BOOSTING_PURPLE": "#c4a7e7",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
+    "RED_260": "#ad2121",
+    "RED_300": "#ad2121",
+    "RED_330": "#ad2121",
+    "RED_345": "#ad2121",
+    "RED_360": "#ad2121",
+    "RED_400": "#ad2121",
+    "RED_430": "#ad2121",
+    "RED_460": "#ad2121",
+    "RED_500": "#ad2121",
+    "RED_530": "#ad2121",
+    "RED_560": "#ad2121",
+    "RED_600": "#ad2121",
+    "RED_630": "#ad2121",
+    "RED_660": "#ad2121",
+    "RED_700": "#ad2121",
+    "YELLOW_100": "#ad2121",
+    "YELLOW_130": "#ad2121",
+    "YELLOW_160": "#ad2121",
+    "YELLOW_200": "#ad2121",
+    "YELLOW_230": "#ad2121",
+    "YELLOW_260": "#ad2121",
+    "YELLOW_300": "#ad2121",
+    "YELLOW_330": "#ad2121",
+    "YELLOW_345": "#ad2121",
+    "YELLOW_360": "#ad2121",
+    "YELLOW_400": "#ad2121",
+    "YELLOW_430": "#ad2121",
+    "YELLOW_460": "#ad2121",
+    "YELLOW_500": "#ad2121",
+    "YELLOW_530": "#ad2121",
+    "YELLOW_560": "#ad2121",
+    "YELLOW_600": "#ad2121",
+    "YELLOW_630": "#ad2121",
+    "YELLOW_660": "#ad2121",
+    "YELLOW_700": "#ad2121",
+    "YELLOW_730": "#ad2121",
+    "YELLOW_760": "#ad2121",
+    "YELLOW_800": "#ad2121",
+    "YELLOW_830": "#ad2121",
+    "YELLOW_860": "#ad2121",
+    "YELLOW_900": "#ad2121",
+    "WHITE_500": "#c9c9c9",
+    "WHITE_630": "#c9c9c9"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/sakrua-Kr/themes/main/asuka.jpg",
+    "alpha": 0.5
+  },
+  "fonts": {
+    "*": "https://raw.githubusercontent.com/sakrua-Kr/themes/main/HuiFont29.ttf"
+  },
+  "plus": {
+    "version": "0",
+    "unreadBadgeColor": "ab2121",
+    "mentionLineColor": "ab2121",
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2
 }
